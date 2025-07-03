@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/l2_face_the_object/l2_face_the_object.egg-info
+writing ../../build/l2_face_the_object/l2_face_the_object.egg-info/PKG-INFO
+writing dependency_links to ../../build/l2_face_the_object/l2_face_the_object.egg-info/dependency_links.txt
+writing entry points to ../../build/l2_face_the_object/l2_face_the_object.egg-info/entry_points.txt
+writing requirements to ../../build/l2_face_the_object/l2_face_the_object.egg-info/requires.txt
+writing top-level names to ../../build/l2_face_the_object/l2_face_the_object.egg-info/top_level.txt
+writing manifest file '../../build/l2_face_the_object/l2_face_the_object.egg-info/SOURCES.txt'
+reading manifest file '../../build/l2_face_the_object/l2_face_the_object.egg-info/SOURCES.txt'
+writing manifest file '../../build/l2_face_the_object/l2_face_the_object.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sai/maze_runner/build/l2_face_the_object/build
+creating /home/sai/maze_runner/build/l2_face_the_object/build/lib
+creating /home/sai/maze_runner/build/l2_face_the_object/build/lib/l2_face_the_object
+copying l2_face_the_object/__init__.py -> /home/sai/maze_runner/build/l2_face_the_object/build/lib/l2_face_the_object
+running install
+running install_lib
+creating /home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages/l2_face_the_object
+copying /home/sai/maze_runner/build/l2_face_the_object/build/lib/l2_face_the_object/__init__.py -> /home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages/l2_face_the_object
+byte-compiling /home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages/l2_face_the_object/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/sai/maze_runner/install/l2_face_the_object/share/ament_index
+creating /home/sai/maze_runner/install/l2_face_the_object/share/ament_index/resource_index
+creating /home/sai/maze_runner/install/l2_face_the_object/share/ament_index/resource_index/packages
+copying resource/l2_face_the_object -> /home/sai/maze_runner/install/l2_face_the_object/share/ament_index/resource_index/packages
+copying package.xml -> /home/sai/maze_runner/install/l2_face_the_object/share/l2_face_the_object
+running install_egg_info
+Copying ../../build/l2_face_the_object/l2_face_the_object.egg-info to /home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages/l2_face_the_object-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/sai/maze_runner/build/l2_face_the_object/install.log'

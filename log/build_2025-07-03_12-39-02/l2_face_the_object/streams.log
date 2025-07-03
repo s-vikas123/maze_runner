@@ -1,0 +1,33 @@
+[0.806s] Invoking command in '/home/sai/maze_runner/src/l2_face_the_object': PYTHONPATH=/home/sai/maze_runner/build/l2_face_the_object/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/l2_face_the_object build --build-base /home/sai/maze_runner/build/l2_face_the_object/build install --record /home/sai/maze_runner/build/l2_face_the_object/install.log --single-version-externally-managed install_data
+[1.056s] running egg_info
+[1.057s] creating ../../build/l2_face_the_object/l2_face_the_object.egg-info
+[1.057s] writing ../../build/l2_face_the_object/l2_face_the_object.egg-info/PKG-INFO
+[1.057s] writing dependency_links to ../../build/l2_face_the_object/l2_face_the_object.egg-info/dependency_links.txt
+[1.057s] writing entry points to ../../build/l2_face_the_object/l2_face_the_object.egg-info/entry_points.txt
+[1.057s] writing requirements to ../../build/l2_face_the_object/l2_face_the_object.egg-info/requires.txt
+[1.057s] writing top-level names to ../../build/l2_face_the_object/l2_face_the_object.egg-info/top_level.txt
+[1.057s] writing manifest file '../../build/l2_face_the_object/l2_face_the_object.egg-info/SOURCES.txt'
+[1.058s] reading manifest file '../../build/l2_face_the_object/l2_face_the_object.egg-info/SOURCES.txt'
+[1.058s] writing manifest file '../../build/l2_face_the_object/l2_face_the_object.egg-info/SOURCES.txt'
+[1.058s] running build
+[1.058s] running build_py
+[1.058s] creating /home/sai/maze_runner/build/l2_face_the_object/build
+[1.059s] creating /home/sai/maze_runner/build/l2_face_the_object/build/lib
+[1.059s] creating /home/sai/maze_runner/build/l2_face_the_object/build/lib/l2_face_the_object
+[1.059s] copying l2_face_the_object/__init__.py -> /home/sai/maze_runner/build/l2_face_the_object/build/lib/l2_face_the_object
+[1.059s] running install
+[1.059s] running install_lib
+[1.059s] creating /home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages/l2_face_the_object
+[1.059s] copying /home/sai/maze_runner/build/l2_face_the_object/build/lib/l2_face_the_object/__init__.py -> /home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages/l2_face_the_object
+[1.060s] byte-compiling /home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages/l2_face_the_object/__init__.py to __init__.cpython-310.pyc
+[1.060s] running install_data
+[1.060s] creating /home/sai/maze_runner/install/l2_face_the_object/share/ament_index
+[1.060s] creating /home/sai/maze_runner/install/l2_face_the_object/share/ament_index/resource_index
+[1.060s] creating /home/sai/maze_runner/install/l2_face_the_object/share/ament_index/resource_index/packages
+[1.060s] copying resource/l2_face_the_object -> /home/sai/maze_runner/install/l2_face_the_object/share/ament_index/resource_index/packages
+[1.060s] copying package.xml -> /home/sai/maze_runner/install/l2_face_the_object/share/l2_face_the_object
+[1.060s] running install_egg_info
+[1.062s] Copying ../../build/l2_face_the_object/l2_face_the_object.egg-info to /home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages/l2_face_the_object-0.0.0-py3.10.egg-info
+[1.062s] running install_scripts
+[1.083s] writing list of installed files to '/home/sai/maze_runner/build/l2_face_the_object/install.log'
+[1.094s] Invoked command in '/home/sai/maze_runner/src/l2_face_the_object' returned '0': PYTHONPATH=/home/sai/maze_runner/build/l2_face_the_object/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sai/maze_runner/install/l2_face_the_object/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/l2_face_the_object build --build-base /home/sai/maze_runner/build/l2_face_the_object/build install --record /home/sai/maze_runner/build/l2_face_the_object/install.log --single-version-externally-managed install_data
